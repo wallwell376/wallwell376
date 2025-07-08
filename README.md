@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @wallwell376
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in (studying yet)
+- 🌱 I’m currently learning (studying yet)
+- 💞️ I’m looking to collaborate on mj
 - 📫 How to reach me suahnhome@gmail.com
-- 😄 Pronouns:
 
 <!---
 wallwell376/wallwell376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
